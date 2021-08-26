@@ -1,5 +1,5 @@
 import React from 'react';
-import Game from './component/Game';
+import Game from './ttt-component/Game';
 
 function App() {
   return (
